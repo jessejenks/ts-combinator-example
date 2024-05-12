@@ -1,0 +1,16 @@
+{
+  "name": "using-ts-combinator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc -p tsconfig.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@jessejenks/ts-combinator": "3.0.0",
+    "typescript": "5.4.5"
+  }
+}
